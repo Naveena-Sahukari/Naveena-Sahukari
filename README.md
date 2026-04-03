@@ -91,14 +91,6 @@
 
 ---
 
-## 📜 Certifications
-
-- ☁️ **AWS Academy Graduate** — Data Engineering
-- ☁️ **AWS Academy Graduate** — Cloud Foundations
-- 💻 **Full Stack Developer Bootcamp** — GeeksforGeeks
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
