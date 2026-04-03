@@ -115,7 +115,7 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/naveena-sahukari" target="_blank">
+  <a href="https://www.linkedin.com/in/naveena-sahukari-choudary-01a548331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sahukari.naveena178@gmail.com">
