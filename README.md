@@ -17,7 +17,7 @@
 
 * 🎓 B.Tech in **Computer Science Engineering** @ Vardhaman College of Engineering *(2023–2027)*
 * 💻 Passionate about **Full Stack Web Development, Backend Engineering, and Software Development**
-* 🌱 Currently learning **React, Data Structures & Algorithms, and System Design Fundamentals**
+* 🌱 Currently learning **Data Structures & Algorithms, and System Design Fundamentals**
 * 🚀 Building real-world web applications using **Django, JavaScript, and MySQL**
 * 🎯 Targeting **Software Development Engineer (SDE)** and Product-Based Company roles
 * 📍 Based in Hyderabad, India
