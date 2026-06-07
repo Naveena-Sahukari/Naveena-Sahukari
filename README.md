@@ -69,15 +69,16 @@
 
 ---
 
-### 📅 [IntelliSched — Faculty Scheduler System](https://github.com/Naveena-Sahukari)
+### 📅 IntelliSched — Faculty Scheduler System
 
-> Automates faculty timetable scheduling and eliminates manual conflicts using Django REST APIs.
+Developed a web-based faculty scheduling system to automate timetable creation and reduce manual scheduling conflicts.
 
-- Developed **REST APIs** for schedule generation and conflict resolution
-- Designed seamless **frontend–backend integration** using RESTful architecture
-- Reduced manual scheduling effort significantly for academic institutions
+• Built the backend using Django and MySQL for faculty, subject, and timetable management
+• Designed and integrated responsive frontend pages using HTML, CSS, and JavaScript
+• Implemented automated timetable generation and conflict detection features
+• Improved scheduling efficiency by reducing manual effort and minimizing timetable clashes
 
-`Django` `REST API` `MySQL` `HTML` `CSS` `JavaScript`
+Tech Stack: Django, MySQL, HTML, CSS, JavaScript
 
 ---
 
