@@ -2,7 +2,7 @@
 <h3 align="center">CS Student · ML Enthusiast · Backend Developer · Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Analysis;Django+%7C+REST+APIs;Building+Intelligent+Systems;Open+to+AIML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Analysis;Django+%7C;Building+Intelligent+Systems;Open+to+AIML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
