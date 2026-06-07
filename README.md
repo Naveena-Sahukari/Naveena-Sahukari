@@ -7,15 +7,22 @@
 
 ---
 
+<h3 align="center">CS Student · Full Stack Developer · Backend Developer · Hyderabad, India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Django+%7C+JavaScript+%7C+MySQL;Building+Scalable+Web+Applications;Open+to+Software+Development+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in **Computer Science Engineering** @ Vardhaman College of Engineering *(2023–2027)* — CGPA: **8.9**
-- 🏅 Diploma in CS @ Smt. Durgabai Deshmukh Govt Women's Technical Training Institute — CGPA: **9.92**
-- 💼 Former **RPA Developer Trainee** @ MassMutual India
-- 🤖 Passionate about **ML, Data Analysis & Backend Development**
-- 🔍 Actively seeking an **AI/ML Internship**
-- 📍 Based in **Hyderabad, India**
-- 📬 Reach me at **sahukari.naveena178@gmail.com**
+* 🎓 B.Tech in **Computer Science Engineering** @ Vardhaman College of Engineering *(2023–2027)*
+* 💻 Passionate about **Full Stack Web Development, Backend Engineering, and Software Development**
+* 🌱 Currently learning **React, Data Structures & Algorithms, and System Design Fundamentals**
+* 🚀 Building real-world web applications using **Django, JavaScript, and MySQL**
+* 🎯 Targeting **Software Development Engineer (SDE)** and Product-Based Company roles
+* 📍 Based in Hyderabad, India
+* 📬 Reach me at **[sahukari.naveena178@gmail.com](mailto:sahukari.naveena178@gmail.com)**
+
 
 ---
 
@@ -38,7 +45,6 @@
 **Backend & Frontend**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -69,16 +75,17 @@
 
 ---
 
-### 📅 IntelliSched — Faculty Scheduler System
+### ### 📅 IntelliSched — Faculty Scheduler System
 
 Developed a web-based faculty scheduling system to automate timetable creation and reduce manual scheduling conflicts.
 
-• Built the backend using Django and MySQL for faculty, subject, and timetable management
-• Designed and integrated responsive frontend pages using HTML, CSS, and JavaScript
-• Implemented automated timetable generation and conflict detection features
-• Improved scheduling efficiency by reducing manual effort and minimizing timetable clashes
+* Built the backend using Django and MySQL for faculty, subject, and timetable management
+* Designed and integrated responsive frontend pages using HTML, CSS, and JavaScript
+* Implemented automated timetable generation and conflict detection features
+* Reduced manual scheduling effort and improved timetable management efficiency
 
-Tech Stack: Django, MySQL, HTML, CSS, JavaScript
+`Django` `MySQL` `HTML` `CSS` `JavaScript`
+
 
 ---
 
